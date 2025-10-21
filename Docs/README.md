@@ -1,4 +1,4 @@
-# 🧠 NotesStudy
+# 🧠 GrowthVault
 
 **A living study repo documenting my path to becoming a Polyglot Software Engineer.**
 
